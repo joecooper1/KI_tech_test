@@ -4,7 +4,7 @@ Reads a JSON file and lays it out on a webpage.
 
 To run:
 
-clone
+clone https://github.com/joecooper1/KI_tech_test.git
 
 npm install
 
